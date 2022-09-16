@@ -4,8 +4,8 @@ I'm **Tan Tao-Lin** (in eastern name order), currently a PhD student in Physics 
 
 - 🔭 I’m currently working on *Tensor Network* algorithms, and their applications on quantum computing & condensed matter physics.
 
-Work Experience
----------------
+Experience
+----------
 * 2020/07 - 2021/07 &nbsp; 📍 **Data Scientist**, Phison Electronics Corp.
 * 2019/07 - 2020/06 &nbsp; 📍 **Junior Data Engineer**, Commerce Connector GmbH, Asia Limited
 
