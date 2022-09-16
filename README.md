@@ -15,6 +15,8 @@ Education
 * 2015 - 2018 &nbsp; 🎓 M.Sc., Institute of Physics, National Chiao Tung University
 * 2011 - 2015 &nbsp; 🎓 B.Sc., Department of Physics, National Chung Hsing University
 
+
+<!--
 <br />
 
 <div>
@@ -31,6 +33,8 @@ Education
     <img src="https://w7.pngwing.com/pngs/329/312/png-transparent-in-logo-linkedin-computer-icons-social-media-professional-network-service-youtube-linkedin-miscellaneous-blue-angle.png" alt="drawing" width="30"/>
   </a>
 </div>
+-->
+
 
 <!--
 **tanlin2013/tanlin2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
