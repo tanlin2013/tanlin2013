@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Tan Tao-Lin** (in eastern name order), currently a PhD student in Physics @ National Tsing Hua University, Taiwan.
+I'm **Tao-Lin**, currently a PhD student in Physics @ National Tsing Hua University, Taiwan.
 
 - 🔭 I’m currently working on *Tensor Network* algorithms, and their applications on quantum computing & condensed matter physics.
 
